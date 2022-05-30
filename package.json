@@ -27,6 +27,7 @@
     "webpack-dev-server": "^4.8.1"
   },
   "dependencies": {
-    "core-js": "^3.22.7"
+    "core-js": "^3.22.7",
+    "eslint-plugin-import": "^2.26.0"
   }
 }
